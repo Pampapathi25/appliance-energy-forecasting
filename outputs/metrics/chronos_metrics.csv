@@ -1,0 +1,2 @@
+model,model_name,MAE,RMSE,MASE,Bias,forecast_horizon,context_length,num_samples
+Chronos,amazon/chronos-t5-small,41.397062142690025,56.756708162019045,0.7748808574074368,-40.01724078920153,24,168,100
